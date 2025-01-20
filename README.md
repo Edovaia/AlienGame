@@ -1,5 +1,6 @@
 # AlienGame
 This is a simple 2D space shooter game created using Python and Pygame. The objective of the game is to control a spaceship to shoot and eliminate enemies, increasing the score.
+
 The game includes the following features:
 
 -Spaceship Movement: The player controls the spaceship using the left and right arrow keys.
